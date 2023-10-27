@@ -1,0 +1,6 @@
+POST http://0.0.0.0:8000/api/v1/recipes/generate
+
+
+{
+ "ingredients": ["ekfneif"]
+}
