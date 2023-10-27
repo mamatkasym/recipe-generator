@@ -15,6 +15,8 @@ class Settings(BaseSettings):
 
     ACCESS_TOKEN_EXPIRE_MINUTES: int = 7 * 24 * 60  # 7 days
 
+    OPENAI_API_KEY: str
+
     BACKEND_CORS_ORIGINS: List[AnyHttpUrl] = []
 
     # The following variables need to be defined in environment
