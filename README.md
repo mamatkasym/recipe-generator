@@ -1,19 +1,5 @@
 # recipe-generator
 
-## Features
-
-- FastAPI
-- React Admin
-- SQLAlchemy and Alembic
-- Pre-commit hooks (black, autoflake, isort, flake8, prettier)
-- Github Action
-- Dependabot config
-- Docker images
-
-## Good to know
-
-The frontend of this project uses React Admin. Follow the quick tutorial to understand how [React Admin](https://marmelab.com/react-admin/Tutorial.html) works.
-
 ## Step 1: Getting started
 
 Start a local development instance with docker-compose
