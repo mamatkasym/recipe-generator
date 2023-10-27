@@ -248,3 +248,7 @@ dmypy.json
 
 # profiling data
 .prof
+
+backend/.idea/
+frontend/.idea/
+.env.docker
