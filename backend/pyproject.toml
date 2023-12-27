@@ -6,7 +6,7 @@ authors = []
 
 [tool.poetry.dependencies]
 python = "^3.11"
-fastapi = "^0.104.0"
+fastapi = "^0.108.0"
 uvicorn = "^0.23.2"
 pydantic = "^2.4.1"
 pydantic-settings = "^2.0.3"
